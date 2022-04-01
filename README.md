@@ -9,3 +9,7 @@
 # Welcome to ENTR-451
 
 This is an example of a GitHub repository.
+
+Nice.
+
+Lovely weather we've been having, right?
